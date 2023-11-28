@@ -9,10 +9,10 @@ One of the unique features of this website is its focus on user-generated conten
 Run Locally
 Clone the project
 
-  git clone https://github.com/Dipankar-Kumar-Singh/CamperWorld
+https://github.com/AnujKumarSingh-Code/Yelp-Camp/tree/main
 Go to the project directory
 
-  cd CamperWorld
+  cd Yelp-Camp
 Install dependencies
 
   npm install
@@ -47,9 +47,8 @@ Location Preview 📌 on Individual Display Page
 Forword Geocoding ➡️ 🌏 ⬅️
 Coordinate 📌 are been geocoded by the simple text location input, Easy to use by the user
 
-Forwrod Geocoding : Forward geocoding is the process of converting a location description, such as a street address or city name, into geographic coordinates that can be used to plot the location on a map. In the Camper World web development project, I implemented forward geocoding to make it easier for users to add campground locations to the database.
+Forwrod Geocoding : Forward geocoding is the process of converting a location description, such as a street address or city name, into geographic coordinates that can be used to plot the location on a map. In the Yelp Camp web development project, I implemented forward geocoding to make it easier for users to add campground locations to the database.
 
-Dark Mode 😁😄😄
-Easy On Eyes
 
-Live previews
+
+
