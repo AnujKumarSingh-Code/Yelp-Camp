@@ -25,14 +25,14 @@ cd seeds/
 node index.js index2.js index3.js inde43.js
 Database : MongoDB 6.0.4
 
-Tech Stack ⚒️
+# Tech Stack ⚒️
 Client: HTML/CSS/BootStrap, EJS for templating
 
 Server: Node, Express, MongoDB , mongoose, Passport library, JOI library, Mapbox-gl
 
 Development: Nodemon, Postman, MongoDB Compass, VS Code, Git, GitHub
 
-Features 🔅💎🔅
+# Features 🔅💎🔅
 Authentication 🔐
 Used Passport library for secure authentication
 Password is not 🚫 stored as plain text.
