@@ -6,7 +6,7 @@ The map feature allows users to visualize the location of each campground and ge
 One of the unique features of this website is its focus on user-generated content. By allowing users to add and review campgrounds, the site fosters a sense of community and encourages people to share their experiences with others. This creates a valuable resource for travelers, helping them find the best camping spots around the world.
 
 
-Run Locally
+# Run Locally
 Clone the project
 
 https://github.com/AnujKumarSingh-Code/Yelp-Camp/tree/main
