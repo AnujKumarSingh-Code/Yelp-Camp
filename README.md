@@ -33,8 +33,8 @@ Server: Node, Express, MongoDB , mongoose, Passport library, JOI library, Mapbox
 Development: Nodemon, Postman, MongoDB Compass, VS Code, Git, GitHub
 
 # Features 🔅💎🔅
-Authentication 🔐
-Used Passport library for secure authentication
+Authentication 🔐.
+Used Passport library for secure authentication.
 Password is not 🚫 stored as plain text.
 Hashed Password 🔑 is stored in DataBase along with Salt 🧂
 Before Performing any data manipulation, the user needs to be logged in 🪪
